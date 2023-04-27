@@ -1,11 +1,13 @@
 
+# Prompt
 
 Create a ASCII-style tree visualization for this sentence:
 [REPLACE THIS WITH YOUR TARGET SENTENCE]
 
 Below is the goal for style, horizontal and vertical formatting, and content. Use scss
 output. You can absolutely do this. Do it just like this:
- 
+
+```
 (S)
  ├───(NP)
  │    ├───(Det) The
@@ -72,5 +74,5 @@ output. You can absolutely do this. Do it just like this:
  │    └───(NP)
  │         ├───(Noun) decades
  └───(.)
-
+```
 
