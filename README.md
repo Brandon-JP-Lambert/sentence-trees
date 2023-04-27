@@ -10,9 +10,6 @@ The project is intended to be used in conjunction with generative text tools lik
 
 ## Prompt
 
-
-# Prompt
-
 Create a ASCII-style tree visualization for this sentence:
 [REPLACE THIS WITH YOUR TARGET SENTENCE]
 
